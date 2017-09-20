@@ -15,7 +15,7 @@ nbproject/
 /*.xml
 /composer
 /contao/update.phar.php
-!/files/*
+
 /assets/css/*
 /assets/images/*/*
 /assets/js/*
@@ -31,10 +31,12 @@ nbproject/
 /system/modules/!composer
 /system/modules/*/.skip
 /system/tmp/*
-!/templates/*
+/files/*
+
 /vendor/
 
 # See contao/core#7576
 !/assets/css/index.html
 !/assets/images/*/index.html
 !/assets/js/index.html
+

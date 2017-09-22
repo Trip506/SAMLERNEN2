@@ -31,8 +31,11 @@ nbproject/
 /system/modules/!composer
 /system/modules/*/.skip
 /system/tmp/*
-/files/*
-
+/files/Content/Galleries/*
+/files/Video/*
+/files/Audio/*
+/files/Downloads/*
+/files/UserFiles/*
 /vendor/
 
 # See contao/core#7576

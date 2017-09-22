@@ -31,17 +31,27 @@ nbproject/
 /system/modules/!composer
 /system/modules/*/.skip
 /system/tmp/*
-/files/Content/Galleries/*
-/files/Video/*
-/files/Audio/*
-/files/Downloads/*
-/files/UserFiles/*
 /vendor/
+
+!/files/
+!/files/Content/
+
+/files/Content/Galleries/
+/files/Content/Downloads/
+/files/Content/UserFiles/
+/files/Content/Videos/
+/files/Content/Audio/
+
+
+!/files/Content/Theme/CSS/*
+!/files/Content/Theme/Javacript/*
+
+
+
 
 # See contao/core#7576
 !/assets/css/index.html
 !/assets/images/*/index.html
 !/assets/js/index.html
-!/files/Content/Theme/CSS/*
-!/files/Content/Theme/Javacript/*
+
 

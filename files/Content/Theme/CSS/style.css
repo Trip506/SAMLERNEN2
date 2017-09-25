@@ -162,6 +162,9 @@ html {
 .mod_eventreader img {
   width: 400px; }
 
+.mod_newsreader p.info {
+  color: #4e8a57; }
+
 .slider_1 a.slider-prev, .slider_1 a.slider-next {
   display: none; }
 .slider_1 span.slider-menu b {
